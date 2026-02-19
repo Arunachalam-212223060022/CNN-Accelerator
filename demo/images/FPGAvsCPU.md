@@ -105,16 +105,5 @@ Confidence:
 
 ---
 
-## 🛠️ Next Steps to Fix CPU
-
-The CPU model needs retraining or recalibration to match the FPGA's correctness on this class of image:
-
-- **Augment training data** with more dark-furred dogs at low resolution
-- **Add dropout** to reduce overconfidence on ambiguous inputs
-- **Quantization-aware training (QAT)** — train with INT8 simulation so both models agree
-- **Temperature scaling** — calibrate softmax outputs so 100% confidence is never assigned to borderline inputs
-
----
-
 *Report generated from PYNQ inference run on `test1dog.jpg` — Vivado 2023.1 / PYNQ v2.7*  
 *Ground truth: 🐕 Dog — FPGA correct, CPU incorrect*
