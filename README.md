@@ -378,6 +378,7 @@ print(f"BBox:       ({res_buf[1]}, {res_buf[2]}, {res_buf[3]}, {res_buf[4]})")
 print(f"Confidence: {res_buf[5]}")
 assert res_buf[8] == 0xC0FFEE00, "Magic mismatch — accelerator may not have completed"
 ```
+<img width="1100" height="1160" alt="image" src="https://github.com/user-attachments/assets/94b5416f-b452-4786-8deb-18c1e2ae2181" />
 
 ---
 
@@ -504,7 +505,7 @@ xychart-beta
       <a href="https://github.com/Arunachalam-212223060022">
         <img src="https://img.shields.io/badge/GitHub-Arunachalam.P-181717?style=flat-square&logo=github" />
       </a><br/>
-      <a href="https://linkedin.com/in/your-linkedin-here">
+      <a href="https://www.linkedin.com/in/arunachalam-p-12445b290">
         <img src="https://img.shields.io/badge/LinkedIn-Arunachalam.P-0A66C2?style=flat-square&logo=linkedin" />
       </a>
     </td>
@@ -521,17 +522,17 @@ xychart-beta
     <td align="center" width="33%">
       <b>Divyashree G</b><br/>
       <sub>CNN Training · Performance Analysis</sub><br/><br/>
-      <a href="https://github.com/divyashree-placeholder">
+      <a href="https://github.com/Divyashree3-11">
         <img src="https://img.shields.io/badge/GitHub-Divyashree.G-181717?style=flat-square&logo=github" />
       </a><br/>
-      <a href="https://linkedin.com/in/divyashree-placeholder">
+      <a href="https://www.linkedin.com/in/divyashree3">
         <img src="https://img.shields.io/badge/LinkedIn-Divyashree.G-0A66C2?style=flat-square&logo=linkedin" />
       </a>
     </td>
   </tr>
 </table>
 
-> 📝 Replace the placeholder GitHub/LinkedIn URLs for **Arunachalam.P** and **Divyashree.G** with actual profile links before pushing.
+
 
 ---
 
